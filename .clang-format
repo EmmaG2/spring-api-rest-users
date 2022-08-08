@@ -1,0 +1,11 @@
+BasedOnStyle: Mozilla
+AlignAfterOpenBracket: Align
+AlignConsecutiveMacros: "true"
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortLambdasOnASingleLine: Inline
+AllowShortLoopsOnASingleLine: "true"
+AlwaysBreakAfterReturnType: All
+BreakAfterJavaFieldAnnotations: "true"
+BreakBeforeBraces: Mozilla
+TabWidth: "2"
+UseTab: Never
